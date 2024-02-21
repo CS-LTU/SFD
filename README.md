@@ -1,11 +1,11 @@
 # SFD
 Subject Focus Day - Leeds Trinity University
 
-[Video 1: Anaconda and Jupyter Notebook Installation](https://github.com/CS-LTU/SFD/assets/91670386/9fc39be6-36f0-4438-bf90-6a137e927e37)
+[Video 1: Anaconda and Jupyter Notebook Installation](https://web.microsoftstream.com/video/5871e9a6-7a6f-43da-8b5b-c2758b77eac4)
 
-[Video 2: Intro to Turtle package](https://github.com/CS-LTU/SFD/assets/91670386/f1b635e1-3c18-4afc-9c4d-16c32a073f91)
+[Video 2: Intro to Turtle package](https://web.microsoftstream.com/video/1ae3b7be-58d3-4e85-9114-949ac878ce35)
 
-[Video 3: Implement two games](https://github.com/CS-LTU/SFD/assets/91670386/23a9a5a2-b340-4d81-9c98-eacb996872e2)
+[Video 3: Implement two games](https://web.microsoftstream.com/video/9fea89a4-3cd4-464b-841b-670a8ed6d55d)
 
-[https://bit.ly/csltusfd](https://github.com/CS-LTU/SFD/assets/91670386/fbf17983-6323-48f5-af47-7b398baa339f)
+[https://bit.ly/csltusfd](https://bit.ly/csltusfd)
 
