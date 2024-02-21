@@ -1,5 +1,8 @@
-# SFD
-Leeds Trinity University
+# Welcome
+
+School of Computer Science - Leeds Trinity University
+
+Here are some links to assist you through out the activities. 
 
 [Video 1: Anaconda and Jupyter Notebook Installation](https://web.microsoftstream.com/video/5871e9a6-7a6f-43da-8b5b-c2758b77eac4)
 
